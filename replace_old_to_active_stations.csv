@@ -1,0 +1,117 @@
+station,lat,lon,nearest_station,dis_from_nearest_station,capacity,station_number
+Lynn & 19th St North,38.89727946,-77.07077169,Lynn St & 19th St North,0.0196108065300482,27.0,31014
+Connecticut Ave & Newark St NW / Cleveland Park,38.93423558,-77.05766285,Connecticut Ave & Macomb St NW / Cleveland Park,0.0675099472224687,11.0,31305
+21st & M St NW,38.90583708,-77.04665752,New Hampshire Ave & Ward Pl NW,0.0587030868755442,19.0,31212
+Columbia Pike & S Taylor St,38.85831071,-77.10361375,Columbia Pike & George Mason Dr,0.1770732546324174,15.0,31923
+East Falls Church Metro/Sycamore St & 19th St N,38.88474688,-77.15595242,East Falls Church Metro / Sycamore St & 19th St N,0.0764454718192303,19.0,31904
+Eastern Market Metro / Pennsylvania Ave & 7th St SE,38.88447039,-76.99580981,Eastern Market Metro / Pennsylvania Ave & 8th St SE,0.0645117514089939,19.0,31613
+Braddock Rd Metro,38.81417889,-77.05365818,Braddock Rd Metro South,0.077500598209108,19.0,31047
+28th St S & S Meade St,38.84639966,-77.06936849,28th St & S Meade St,0.0202000282143443,15.0,31055
+Madison & N Henry St,38.81380287,-77.04952602,Madison St & N Henry St,0.034533990481844,15.0,31099
+Georgia Ave and Fairmont St NW,38.92498959,-77.02256908,Georgia Ave & Fairmont St NW,0.0329501213774982,15.0,31207
+31st & Water St NW,38.9053816,-77.06160233,C & O Canal & Wisconsin Ave NW,0.2042525490031245,23.0,31293
+Ballston Metro / N Stuart & 9th St N,38.88125276,-77.11174654,Ballston Metro / Stuart St & 9th St N,0.022439634415128,23.0,31037
+15th & Euclid St  NW,38.92358024,-77.03527798,15th & Euclid St NW,0.0275568929460792,15.0,31117
+Lee Hwy & N Woodstock St,38.89703351,-77.11852623,Langston Blvd & N Woodstock St,0.1482782851418254,19.0,31900
+Court House Metro / 15th & N Uhle St ,38.8909338,-77.08469285,Court House Metro / 15th St & N Uhle St,0.0358107973367972,21.0,31089
+Iwo Jima Memorial/N Meade & 14th St N,38.89058677,-77.06963546,Iwo Jima Memorial / Meade & 14th St N,0.1619537546379853,19.0,31077
+Rosslyn Metro / Wilson Blvd & Ft Myer Dr,38.89473112,-77.07209903,Wilson Blvd & Ft Myer Dr,0.0224750518420767,19.0,31015
+Central Library / N Quincy St & 10th St N,38.88406309,-77.10748994,Central Library / Quincy St & 10th St N,0.0315239284207609,11.0,31025
+21st St N & N Pierce St,38.8995772,-77.07716437,21st St & N Pierce St,0.1198323788226303,15.0,31093
+Potomac & Swann Ave,38.82985171,-77.04800499,Potomac Ave & Swann Ave,0.0364149802575539,19.0,31916
+Wilson Blvd & Franklin Rd,38.89064503,-77.08868136,Wilson Blvd & N Franklin Rd,0.0331458279596973,12.0,31020
+Commonwealth & E Monroe Ave,38.8202573,-77.06299071,Commonwealth Ave & E Monroe Ave,0.0260475102803594,15.0,31913
+Pershing & N George Mason Dr,38.87193693,-77.10808695,Pershing Dr & N George Mason Dr,0.0193403718804938,11.0,31069
+N Randolph St & Fairfax Dr,38.88250224,-77.10937442,Fairfax Dr & N Randolph St,0.0153070803627911,15.0,31034
+N Veitch & Key Blvd,38.8935048,-77.0861091,N Veitch St & Key Blvd,0.0292522653018481,11.0,31028
+11th & H St NE,38.90039365,-76.99151514,10th & H St NE,0.1138967369777,19.0,31614
+15th & N Scott St,38.89073203,-77.08097145,15th St & N Scott St,0.0208225498316012,15.0,31031
+1st & N St  SE,38.87430232,-77.00583721,1st & N St SE,0.0220991249577511,39.0,31209
+Bethesda Metro,38.98435431,-77.09411472,Bethesda Metro / Wisconsin Ave & Old Georgetown Rd,0.0532116183915169,12.0,32048
+Grand Park & Rose Ave,39.05105786,-77.11746497,Rockville Pike & Old Georgetown Rd,0.3567509678922252,15.0,32083
+S Joyce & 16th St S,38.85871433,-77.06330146,Joyce St & 16th St S,0.0608159749968561,15.0,31091
+19th & L St NW,38.90389685,-77.04350061,18th & L St NW,0.0923564777705576,19.0,31224
+S Four Mile Run & Walter Reed Dr,38.84709603,-77.09524245,Four Mile Run Dr & S Walter Reed Dr,0.0341923649894386,11.0,31059
+Saint Asaph St & Pendleton  St,38.81076996,-77.04456462,St Asaph & Pendleton St,0.0060609566640862,15.0,31043
+Saint Asaph & Madison St,38.81301192,-77.04409015,Saint Asaph St & Madison St,0.0321305172830623,15.0,31097
+Franklin & S Washington St,38.79832971,-77.04847241,Franklin St & S Washington St,0.0289896777758629,19.0,31907
+N Veitch  & 20th St N,38.89700266,-77.08640559,N Veitch St & 20th St N,0.012010611250334,15.0,31029
+Madison & Fairfax St,38.81263026,-77.04086572,Madison St & Fairfax St,0.0340744031931056,15.0,31918
+Lee Hwy & N Scott St,38.89755391,-77.08050532,Langston Blvd & N Scott St,0.0313439182800404,15.0,31080
+Shirlington Transit Center / S Quincy & Randolph St,38.83960822,-77.087373,S Randolph St & Campbell Ave,0.1616307821363695,15.0,31076
+New Jersey Ave & L St NW,38.90390269,-77.01416577,New Jersey Ave & K St NW,0.2292337317781542,23.0,31642
+N Rhodes & 16th St N,38.89200362,-77.07904252,Rhodes St & 16th St N,0.0342068729104437,12.0,31018
+S Joyce & Army Navy Dr,38.86607906,-77.06272845,Army Navy Dr & S Joyce St,0.3121916946375062,16.0,31006
+S Four Mile Run Dr & S Shirlington Rd,38.84447527,-77.0855859,Four Mile Run Dr & S Shirlington Rd,0.0311585297418646,11.0,31057
+Lee Hwy & N Adams St,38.89547836,-77.08883488,Langston Blvd & N Adams St,0.0529461081203378,19.0,31030
+Lee Hwy & N Kirkwood Rd,38.89593986,-77.09614122,Langston Blvd & N Kirkwood St,0.105453462459975,15.0,31094
+Royal & Wilkes St,38.79987638,-77.04456181,Royal St & Wilkes St,0.0681825712554335,15.0,31903
+Friendship Hts Metro/Wisconsin Ave & Wisconsin Cir,38.9610894,-77.08617433,Friendship Hts Metro / Wisconsin Ave & Wisconsin Cir,0.0772754427312345,19.0,32014
+Lee Hwy & N Cleveland St,38.89490341,-77.09129671,Langston Blvd & N Cleveland St,0.0345444942488543,15.0,31079
+15th St & Pennsylvania Ave NW/Pershing Park,38.89612366,-77.03271989,15th St & Pennsylvania Ave NW,0.0692867635136265,19.0,31129
+Utah St & 11th St N ,38.88387123,-77.11388008,Utah St & 11th St N,0.021370451273952,11.0,31049
+Columbia Pike & S Dinwiddie St / Arlington Mill Community Center,38.85643457,-77.11212384,Arlington Mill Cmty Center / Columbia Pike & S Dinwiddie St,0.053122607850595,15.0,31068
+12th & Army Navy Dr,38.86306608,-77.05187478,Eads St & 12th St S,0.2112772445655238,17.0,31008
+S Walter Reed Dr & 8th St S,38.86578938,-77.08767285,Walter Reed Dr & 8th St S,0.0414556489880568,15.0,31096
+McKinley St & Connecticut Ave NW,38.96500662,-77.07555168,Connecticut Ave & McKinley St NW,0.0616879084665664,19.0,31315
+Crystal Dr & Potomac Ave,38.8485242,-77.05153298,Crystal Dr & 27th St S,0.005637091785159,12.0,31925
+Aurora Hills Community Ctr/18th & Hayes St,38.8577832,-77.05925892,Aurora Hills Cmty Ctr / 18th St & S Hayes St,0.0222834163931752,12.0,31004
+Union Market/6th St & Neal Pl NE,38.90866984,-76.99738528,Union Market,0.0882219977970466,23.0,31517
+Eads & 22nd St S,38.85436047,-77.05345403,Eads St & 22nd St S,0.0050283118495598,15.0,31013
+Crystal City Metro / 18th & Bell St,38.85791038,-77.05172988,Crystal City Metro / 18th St & S Bell St,0.013731237561205,19.0,31007
+Virginia Square Metro / N Monroe St & 9th St N,38.88273088,-77.1029333,Virginia Square Metro / Monroe St & 9th St N,0.0205949934259813,19.0,31024
+Washington-Lee High School / N Stafford St & Generals Way,38.88835683,-77.11042214,Washington-Liberty High School / N Stafford St & Generals Way,0.0565962809247375,15.0,31920
+Pentagon City Metro / 12th & S Hayes St,38.86057854,-77.05835941,Pentagon City Metro / 12th St & S Hayes St,0.2360087643364264,19.0,31005
+S Glebe & Potomac Ave,38.84306403,-77.05020857,S Glebe Rd & Potomac Ave,0.0504074395302384,11.0,31010
+Long Bridge Dr & 6th St S,38.86582879,-77.04975198,Long Bridge Park / Long Bridge Dr & 6th St S,0.03820058164853,15.0,31090
+Ripley & Bonifant St,38.99351836,-77.02939061,Silver Spring Transit Center - Top Level,0.1027335461939926,15.0,32034
+Walter Reed Community Center / Walter Reed Dr & 16th St S,38.85806415,-77.08622998,Columbia Pike & S Walter Reed Dr,0.4930827899570276,12.0,31054
+S Oakland St & Columbia Pike,38.86049605,-77.09572202,Columbia Pike & S Oakland St,0.0356808380335079,11.0,31058
+N Pershing Dr & Wayne St,38.88087535,-77.08567947,Pershing Dr & Wayne St,0.0307725415817202,11.0,31065
+Key Blvd & N Quinn St,38.89625381,-77.07841155,Wilson Blvd & N Quinn St,0.2513188370284776,17.0,31027
+18th & Eads St.,38.85757073,-77.05306114,Crystal City Metro / 18th St & S Bell St,0.1204483360550239,19.0,31001
+S Kenmore & 24th St S,38.8485775,-77.08481475,Kenmore St & 24th St S,0.0153178012290903,11.0,31061
+S Troy St & 26th St S,38.8479457,-77.07527426,Troy St & 26th St S,0.0147499305114995,11.0,31056
+Nebraska Ave/AU East Campus,38.93537667,-77.08660148,American University East Campus,0.1127329036729211,19.0,31320
+26th & S Clark St,38.8510482,-77.05173681,Clark St & 26th St S,0.0430268083571814,12.0,31012
+Silver Spring Metro/Colesville Rd & Wayne Ave,38.99390459,-77.03118215,Silver Spring Transit Center - Top Level,0.0714969691235646,15.0,32012
+Crabbs Branch Way & Calhoun Pl,39.10800414,-77.15203281,Montgomery College / W Campus Dr & Mannakee St,1.499191294827314,21.0,32020
+Lee Hwy & N Monroe St,38.89599361,-77.10429044,Langston Blvd & N Monroe St,0.0575081691655157,15.0,31092
+Spring St & Second Ave,38.99806601,-77.03442069,Spring St & 2nd Ave,0.0457510591726438,15.0,32050
+Washington Adventist U / Flower Ave & Division St,38.98614251,-77.00065318,WAU / Flower Ave & Division St,0.0864500261626333,15.0,32049
+37th & Ely Pl SE / Fort Dupont Ice Arena,38.88304924,-76.94942889,37th & Ely Pl SE,0.0250920206741657,15.0,31715
+31st & Woodrow St S,38.83769289,-77.09503374,31st St & S Woodrow St,0.135453375150807,11.0,31072
+Blueridge Ave & Elkins St,39.04314495,-77.05000145,Blueridge Ave & Elkin St,0.0056741776124324,15.0,32073
+Arlington Blvd & S George Mason Dr/NFATC,38.86790851,-77.10168061,Arlington Blvd & S George Mason Dr,0.298541091169336,15.0,31078
+S George Mason Dr & Four Mile Run,38.85282583,-77.10335281,S George Mason & Four Mile Run Dr,0.1577981374345715,11.0,31063
+Radford & Osage St,38.82842813,-77.08606448,Radford St & Osage St,0.0035063704701116,23.0,31908
+Montgomery College/W Campus Dr & Mannakee St,39.09566638,-77.15907093,Montgomery College / W Campus Dr & Mannakee St,0.0015006287950737,21.0,32023
+Rosedale Rec Center / 17th & Gales St NE,38.89779152,-76.97962788,Rosedale Rec Center,0.0025617334647413,19.0,31658
+Broschart & Blackwell Rd,39.10191324,-77.2003407,Medical Center Dr & Key West Ave,0.3608568875989181,15.0,32030
+Wheaton Metro/Georgia Ave & Reedie Dr,39.03884229,-77.05026727,Wheaton Metro / Georgia Ave & Reedie Dr,0.0794798772641286,19.0,32062
+Dennis & Amherst Ave,39.02564247,-77.04484422,Dennis Ave & Amherst Ave,0.0367243474424419,15.0,32022
+Taft St & E Gude Dr,39.09437675,-77.13247768,Frederick Ave & Horners Ln,1.10022490868713,9.0,32031
+14th & U St NW,38.91720586,-77.03196459,14th & V St NW,0.0641617232819959,31.0,31101
+18th St & S Eads St,38.85728845,-77.0531749,Crystal City Metro / 18th St & S Bell St,0.1394270958190042,19.0,31001
+Walter Reed Dr & 16th St S,38.85685187,-77.0882965,Columbia Pike & S Walter Reed Dr,0.6437541015338635,12.0,31054
+Shirlington Transit Center / Quincy St & Randolph St,38.84007909,-77.08713664,S Randolph St & Campbell Ave,0.146985773810673,15.0,31076
+Crabbs Branch Way & Redland Rd,39.12114156,-77.15841292,Needwood Rd & Eagles Head Ct,0.2778351604661635,15.0,32015
+Rockville Pike & Meeting St,39.05074203,-77.1151914,Rockville Pike & Old Georgetown Rd,0.1692266611278384,15.0,32083
+George Mason High School / Haycock Rd & Leesburg Pike,38.89791221,-77.19197527,Meridian High School / Haycock Rd & Leesburg Pike,0.1766653926766382,12.0,32600
+Rhode Island Ave & Montana Ave NE,38.92464016,-76.98553461,Rhode Island & Montana Ave NE,0.0484677306354971,19.0,31526
+4th St & K St NW,38.90271749,-77.01624254,New Jersey Ave & K St NW,0.0391615748266453,23.0,31642
+15th & Crystal Dr,38.86110213,-77.04940526,Crystal Dr & 15th St S,0.0048122032008722,16.0,31003
+27th & Crystal Dr,38.84847088,-77.05152254,Crystal Dr & 27th St S,0.0005121277490918,12.0,31009
+23rd & Crystal Dr,38.85295366,-77.04973292,Crystal Dr & 23rd St S,0.0022216100801293,17.0,31011
+20th & Crystal Dr,38.85641928,-77.04923668,Crystal Dr & 20th St S,0.001263804512091,17.0,31002
+USDA / 12th & Independence Ave SW,38.88748083,-77.02854154,USDA / 12th & C St SW,0.1358292728649694,39.0,31217
+Fairfax Dr & Kenmore St,38.88462066,-77.1010711,GMU / Fairfax Dr & Kenmore St,0.0010132334149064,11.0,31040
+34th St & Minnesota Ave SE,38.88396351,-76.95746285,37th & Ely Pl SE,0.67859529041095,15.0,31709
+S George Mason Dr & 13th St S,38.85620493,-77.10020541,Columbia Pike & George Mason Dr,0.3800317200020601,15.0,31062
+S Stafford & 34th St S,38.83411905,-77.08733393,Radford St & Osage St,0.6407622956429677,23.0,31064
+Long Bridge Park/Long Bridge Dr & 6th St S,38.86560212,-77.05005109,Long Bridge Park / Long Bridge Dr & 6th St S,0.0044715515244972,15.0,31071
+6th & S Ball St,38.84419431,-77.05135711,Potomac Ave & 35th St S,0.073495482322678,15.0,31090
+Reston Station,38.94659312,-77.3394037,Wiehle Ave & Reston Station Blvd,0.0027291004356654,19.0,32215
+Solutions & Greensboro Dr,38.92243488,-77.23034304,Greensboro & Pinnacle Dr,0.0029305878408775,13.0,32202
+9th & F St NW / National Portrait Gallery,38.89747406,-77.02414335,7th & F St NW / National Portrait Gallery,0.1699814968732483,27.0,31232
+8th & F St NW / National Portrait Gallery,38.89710512,-77.02311044,7th & F St NW / National Portrait Gallery,0.0820359927623734,27.0,31232
