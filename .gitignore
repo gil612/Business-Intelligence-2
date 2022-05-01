@@ -3,6 +3,8 @@ bike_data_backup.parquet
 202203-capitalbikeshare-tripdata.csv
 202103-capitalbikeshare-tripdata.csv
 bike_data_10-19.parquet
+key
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
