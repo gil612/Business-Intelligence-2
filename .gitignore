@@ -1,7 +1,8 @@
 # Marc
 bike_data_backup.parquet
 202203-capitalbikeshare-tripdata.csv
-EDA_Marc.ipynb
+202103-capitalbikeshare-tripdata.csv
+bike_data_10-19.parquet
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
