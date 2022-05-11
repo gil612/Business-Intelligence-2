@@ -4,6 +4,7 @@ bike_data_backup.parquet
 202103-capitalbikeshare-tripdata.csv
 bike_data_10-19.parquet
 key
+mbkey.txt
 
 
 # Byte-compiled / optimized / DLL files
